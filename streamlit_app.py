@@ -42,7 +42,7 @@ st.markdown(
         margin: 5px;
         background-color: lightgreen;
         border-radius: 5px;
-        color: darkgreen;
+        color: pink;
     }
     </style>
     <div class="styled-box">
@@ -58,5 +58,5 @@ st.image("https://www.streamlit.io/images/brand/streamlit-logo-primary-colormark
 
 # 7. 유튜브 링크 (썸네일 표시)
 st.write("유튜브 동영상 예제")
-st.video("https://www.youtube.com/watch?v=B2iAodr0fOo")
+st.video("https://www.youtube.com/watch?v=l6Xj2zttgWM&list=RDl6Xj2zttgWM&start_radio=1")
 
